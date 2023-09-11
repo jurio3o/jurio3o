@@ -12,7 +12,7 @@
 *  B.S Dept. of Statistics, Sookmyung Women's University `2018.03 ~ 2023.02`  
    * major in Statistics (ExtraCredit Completion)  
    * double major in Economics
-*  M.S Dept. of Applied Statistics and Data Science, Yonsei University `2023.09 ~ present`
+*  M.S Dept. of Statistics and Data Science, Yonsei University `2023.09 ~ present`
 
 **📝 Work Experience**
 * Data Analyst, Nine2one `2022.07 ~ 2023.08`
