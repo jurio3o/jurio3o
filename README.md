@@ -45,5 +45,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjurio3o%2Fhit-counter&count_bg=%230055FF&title_bg=%235A5A5A&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=flwnghd)](https://solved.ac/flwnghd)
 
- 
+ <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jurio3o&show_icons=true&bg_color=00000000)
+-->
